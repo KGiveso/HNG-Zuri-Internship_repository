@@ -1,2 +1,2 @@
 # **Slack Portfolio Website Giveso1️⃣**
-## **Frontend track- "***stage one task***" **
+## **Frontend track- "stage one task" **
